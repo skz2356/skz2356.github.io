@@ -22,7 +22,7 @@ navigation: # Navigation links
 tagline: >
   야구에 대한 끊임없는 생각!
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/_lg.jpg
+hero_img: posts/sleek_lg.jpg/ # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/_lg.jpg
 
 email: skz2356@naver.com # email for form submission
 
