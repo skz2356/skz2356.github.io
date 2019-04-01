@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: 베이스볼  # your site title
+title: Baseball Storming  # your site title
 author: JaeHyeon Lee # You :P
 description: 야구, 통계, 머신러닝을 결합해보자 # Meta description of Homepage
 baseurl: # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: "https://skz2356.github.io/" # the base hostname & protocol for your site, 
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: JaeHyeon Lee
   links:
     - https://www.instagram.com/jaehyeon6141
     - https://www.facebook.com/bsLJH
@@ -17,7 +17,9 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Baseball', link: '/baseball'}
+  - {name: 'Column', link: '/column'}
+  - {name: 'Data Mining ', link: '/datamining'}
 
 tagline: >
   야구에 대한 끊임없는 생각!
