@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Baseball Storming  # your site title
+title: Baseball Storming  # your site title!
 author: JaeHyeon Lee # You :P
 description: 야구, 통계, 머신러닝을 결합해보자 # Meta description of Homepage
 baseurl: # the subpath of your site, e.g. /blog
