@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Data Mining ', link: '/datamining'}
 
 tagline: >
-  야구에 대한 끊임없는 생각!
+  야구에 대한 끊임없는 생각
 
 hero_img: posts/main.jpg/ # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/_lg.jpg
 
