@@ -19,7 +19,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Baseball', link: '/baseball'}
   - {name: 'Column', link: '/column'}
-  - {name: 'Data Mining ', link: '/datamining'}
+  - {name: 'DataMining ', link: '/datamining'}
 
 tagline: >
   야구에 대한 끊임없는 생각
