@@ -5,16 +5,10 @@ permalink: /baseball/
 ---
 
 <div>
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
     <h3 class="category-head">{{ Baseball }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[Baseball] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
-  </div>
 </div>
