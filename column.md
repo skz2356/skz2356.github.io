@@ -10,7 +10,7 @@ permalink: /column/
     {% capture column %}{{ category | first }}{% endcapture %}
     <div id="#{{ column | slugize }}"></div>
     <p></p>
-    <h3 class="category-head">{{ category_name }}</h3>
+    <h3 class="category-head">{{ Column }}</h3>
     <a name="{{ column | slugize }}"></a>
     {% for post in site.categories[column] %}
     <article class="archive-item">
