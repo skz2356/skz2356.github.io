@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Mining
+title: DataMining
 permalink: /datamining/
 ---
 
