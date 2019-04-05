@@ -7,7 +7,7 @@ permalink: /datamining/
 <div>
 {% for datamining in site.categories %}
   <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% capture category_name %}{{ datamining | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     <h3 class="category-head">{{ category_name }}</h3>
