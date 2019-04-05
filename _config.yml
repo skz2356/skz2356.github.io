@@ -17,9 +17,9 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Baseball', link: '/baseball'}
-  - {name: 'Column', link: '/column'}
-  - {name: 'Data Mining ', link: '/datamining'}
+  - {name: 'Baseball', link: '/categories'}
+  - {name: 'Column', link: '/categories'}
+  - {name: 'Data Mining ', link: '/categories'}
 
 tagline: >
   야구에 대한 끊임없는 생각
